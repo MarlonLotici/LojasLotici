@@ -69,6 +69,5 @@ npm run dev
 Abra o navegador:
 A aplicação estará disponível em http://localhost:5173 (ou na porta indicada pelo Vite no seu terminal).
 
-(Substitua os links acima pelas URLs das suas imagens quando fizer o upload no GitHub)
 
 Feito com ❤️ para aprimorar habilidades em desenvolvimento front-end.
