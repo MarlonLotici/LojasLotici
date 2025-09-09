@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Jaqueta de Couro Casual",
+    "price": 299.90,
+    "description": "Uma jaqueta de couro casual e elegante, perfeita para todas as estações. Feita com couro sintético de alta qualidade e design moderno que combina com qualquer estilo, do rock ao casual chic.",
+    "category": "Roupas Masculinas",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1931&auto=format&fit=crop",
+    "rating": {
+      "rate": 4.5,
+      "count": 310
+    },
+    "colors": ["Preto", "Marrom"],
+    "sizes": ["P", "M", "G", "GG"]
+  },
+  {
+    "id": 2,
+    "title": "Camisa Polo Clássica",
+    "price": 89.90,
+    "description": "Camisa polo de algodão pima peruano, com caimento perfeito e toque macio. Um item indispensável para o guarda-roupa casual, oferecendo conforto e sofisticação para o dia a dia.",
+    "category": "Roupas Masculinas",
+    "image": "https://images.unsplash.com/photo-1588614995394-4d1e2e3f65e4?q=80&w=1964&auto=format&fit=crop",
+    "rating": {
+      "rate": 4.7,
+      "count": 520
+    },
+    "colors": ["Azul Marinho", "Verde Musgo", "Branco"],
+    "sizes": ["P", "M", "G", "GG"]
+  },
+  {
+    "id": 3,
+    "title": "Vestido de Verão Floral",
+    "price": 159.99,
+    "description": "Vestido leve e fresco, ideal para dias quentes. Estampa floral vibrante e tecido respirável que proporciona movimento e elegância. Perfeito para um passeio à tarde ou um evento casual.",
+    "category": "Roupas Femininas",
+    "image": "https://images.unsplash.com/photo-1572804013427-4d7ba7068167?q=80&w=1887&auto=format&fit=crop",
+    "rating": {
+      "rate": 4.6,
+      "count": 255
+    },
+    "colors": ["Vermelho Floral", "Amarelo Floral"],
+    "sizes": ["P", "M", "G"]
+  },
+  {
+    "id": 4,
+    "title": "Tênis Esportivo Performance",
+    "price": 349.00,
+    "description": "Tênis de corrida com amortecimento avançado, leve e confortável. Desenvolvido para atletas que buscam performance, seu design moderno também o torna perfeito para uso diário.",
+    "category": "Calçados",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop",
+    "rating": {
+      "rate": 4.8,
+      "count": 410
+    },
+    "colors": ["Preto", "Cinza", "Vermelho"],
+    "sizes": ["38", "39", "40", "41", "42"]
+  },
+  {
+    "id": 5,
+    "title": "Mochila Urbana Moderna",
+    "price": 189.50,
+    "description": "Uma mochila versátil e durável, com múltiplos compartimentos e um design minimalista. Ideal para escola, trabalho ou viagens curtas, com compartimento acolchoado para notebook.",
+    "category": "Acessórios",
+    "image": "https://images.unsplash.com/photo-1627384113702-39f5c40026e6?q=80&w=1964&auto=format&fit=crop",
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["Preto", "Azul Marinho"],
+    "sizes": ["Único"]
+  },
+  {
+    "id": 6,
+    "title": "Relógio de Pulso Clássico",
+    "price": 450.00,
+    "description": "Relógio de pulso com design clássico, caixa em aço inoxidável e pulseira de couro legítimo. Resistente à água e ideal para qualquer ocasião, do formal ao casual.",
+    "category": "Acessórios",
+    "image": "https://images.unsplash.com/photo-1524805444709-b68e7e1704e6?q=80&w=1931&auto=format&fit=crop",
+    "rating": {
+      "rate": 4.9,
+      "count": 95
+    },
+    "colors": ["Prateado", "Dourado"],
+    "sizes": ["Único"]
+  },
+  {
+    "id": 7,
+    "title": "Óculos de Sol Aviador",
+    "price": 175.25,
+    "description": "Óculos de sol estilo aviador, com lentes polarizadas que oferecem proteção UV400 e armação de metal leve. Um clássico atemporal que combina com todos os formatos de rosto.",
+    "category": "Acessórios",
+    "image": "https://images.unsplash.com/photo-1563249059-e93540ce8a75?q=80&w=2070&auto=format&fit=crop",
+    "rating": {
+      "rate": 4.4,
+      "count": 180
+    },
+    "colors": ["Preto", "Dourado", "Prateado"],
+    "sizes": ["Único"]
+  },
+  {
+    "id": 8,
+    "title": "Saia Midi Plissada",
+    "price": 129.00,
+    "description": "Saia midi com plissado delicado, tecido leve e fluido. Confortável e elegante, é uma peça versátil que transita do escritório a um jantar especial com facilidade.",
+    "category": "Roupas Femininas",
+    "image": "https://images.unsplash.com/photo-1594968393527-4632551a1415?q=80&w=1887&auto=format&fit=crop",
+    "rating": {
+      "rate": 4.7,
+      "count": 110
+    },
+    "colors": ["Rosa", "Azul Marinho", "Verde"],
+    "sizes": ["P", "M", "G"]
+  }
+]
